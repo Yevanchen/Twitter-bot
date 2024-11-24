@@ -1,0 +1,21 @@
+# Web Framework
+Flask==3.0.0
+gunicorn==21.2.0
+
+# Lark SDK
+lark-oapi==1.0.10
+
+# HTTP Client
+requests==2.31.0
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# Development Tools
+Werkzeug==3.0.1
+
+# Standard Library (no need to install)
+# - os
+# - sys
+# - json
+# - typing
